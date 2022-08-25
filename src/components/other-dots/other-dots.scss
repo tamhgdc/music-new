@@ -1,0 +1,10 @@
+.other-dots {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+}
+.control-favorite:hover {
+  .other-dots {
+    display: block;
+  }
+}
